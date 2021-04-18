@@ -13,18 +13,9 @@
 	<properties>
 		<java.version>1.7</java.version>
 		<bee.version>1.9-SNAPSHOT</bee.version>
-		<springboot.version>1.5.16.RELEASE</springboot.version>
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-dependencies</artifactId>
-			<version>${springboot.version}</version>
-			<type>pom</type>
-			<scope>import</scope>
-		</dependency>
-
 		<dependency>
 			<groupId>org.teasoft</groupId>
 			<artifactId>bee-spring-boot</artifactId>
