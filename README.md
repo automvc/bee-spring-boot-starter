@@ -23,7 +23,7 @@ Rapid application development:
 =========	
 **Let Java more quicker programming than php and Rails.**  
 
-**Faster development of new combinations for Spring Cloud microservices:  ** 
+**Faster development of new combinations for Spring Cloud microservices:**   
 [Bee + Spring Boot](../../../bee-springboot)  
 
 **Faster development of new combinations for Java Web：**  
