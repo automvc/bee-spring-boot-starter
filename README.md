@@ -16,7 +16,7 @@ https://gitee.com/automvc/bee
 
 Quick Start
 =========	
-[bee-spring-boot-starter](../../../bee-spring-boot-starter) 
+[bee-starter-demo](../../../bee-starter-demo)  
 
 
 Rapid application development:

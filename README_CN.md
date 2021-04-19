@@ -18,7 +18,7 @@ https://gitee.com/automvc/bee
 
 快速开始:
 =========	
-* [bee-starter-demo](../../../bee-starter-demo)  
+[bee-starter-demo](../../../bee-starter-demo)  
 
 综合应用:
 =========	
