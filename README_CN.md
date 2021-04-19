@@ -29,7 +29,7 @@ https://gitee.com/automvc/bee
 **包括仅分库多数据源实例**	
 
 **更快的开发Spring Cloud微服务的新组合：**  
-**bee-spring-boot **
+[Bee + Spring Boot](../../../bee-springboot)  
 
 联系与欢迎:
 =========	
