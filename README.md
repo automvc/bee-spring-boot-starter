@@ -1,24 +1,35 @@
 
 bee-spring-boot-starter
 =========
-**Easy for Stronger.**   
-**Bee** is an ORM framework.   
-**Bee** is an easy and high efficiency ORM framework.    
-**Coding Complexity is O(1),it means that Bee will do the Dao for you**.  
+## Starter for Bee and Spring-boot 
+bee-spring-boot-starter will help you add dependency easily for Bee and Spring boot.   
+It is faster development of new combinations for Spring Cloud microservices.   
+
+**Bee** is an easy and high efficiency ORM framework.   
+
+**Bee** see:  
+https://github.com/automvc/bee  
+or:  
+https://gitee.com/automvc/bee  
+
+**[see bee-spring-boot](../../../bee-springboot)**  
+
+Quick Start
+=========	
+* [bee-spring-boot-starter](../../../bee-spring-boot-starter) 
 
 
 Rapid application development:
 =========	
 **Let Java more quicker programming than php and Rails.**  
 
-**Faster development of new combinations of Java Web：**  
+**Faster development of new combinations for Spring Cloud microservices:  ** 
+**bee-spring-boot **
+
+**Faster development of new combinations for Java Web：**  
 [Bee+Spring+SpringMVC](../../../../aiteasoft/bee-spring-springmvc)  
 
-**Faster development of new combinations of Spring Cloud microservices：**  
-[Bee + Spring Boot](../../../bee-springboot)  
 
-...  
-  
 Contact & Welcome:
 =========	
 #### Author's email:    honeysoft@126.com  
