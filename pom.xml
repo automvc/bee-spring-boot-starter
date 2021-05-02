@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.teasoft</groupId>
 	<artifactId>bee-spring-boot-starter</artifactId>
-	<version>1.9.5</version>
+	<version>1.9.5.boot2.0.4.RELEASE</version>
 	<packaging>pom</packaging>
 
 	<name>bee-spring-boot-starter</name>
@@ -12,14 +12,14 @@
 
 	<properties>
 		<java.version>1.7</java.version>
-		<bee.version>1.9.5</bee.version>
+		<bee-springboot.version>1.9.5.boot2.0.4.RELEASE</bee-springboot.version>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>org.teasoft</groupId>
 			<artifactId>bee-spring-boot</artifactId>
-			<version>${bee.version}</version>
+			<version>${bee-springboot.version}</version>
 		</dependency>
 
 	</dependencies>
