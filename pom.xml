@@ -10,16 +10,11 @@
 	<name>bee-spring-boot-starter</name>
 	<description>bee-spring-boot-starter</description>
 
-	<properties>
-<!-- 		<java.version>1.7</java.version> -->
-		<bee-springboot.version>1.17</bee-springboot.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.teasoft</groupId>
 			<artifactId>bee-spring-boot</artifactId>
-			<version>${bee-springboot.version}</version>
+			<version>${project.version}</version>
 		</dependency>
 
 	</dependencies>
