@@ -21,8 +21,7 @@ https://gitee.com/automvc/bee
 综合应用:
 =========	
 **Java快速编程, 让Java的开发速度超过php和Rails。**  
-**2.1.7.boot3.0.8需要JDK17**	
-**2.1.8.boot3.0.11需要JDK17**	
+**2.5.2.boot3.0.13需要JDK17**	
 
 **更快的开发Java Web的新组合：**  
 [Bee+Spring+SpringMVC](../../../../aiteasoft/bee-spring-springmvc)  
